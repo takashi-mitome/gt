@@ -1,1 +1,1 @@
-test.ttest
+test.ttests
